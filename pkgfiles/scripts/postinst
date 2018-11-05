@@ -1,0 +1,2 @@
+#!/bin/sh
+ln -sf "$SYNOPKG_PKGDEST/usr/local/bin/tmux" /usr/bin/
